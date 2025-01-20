@@ -25,6 +25,7 @@ I'm a seasoned developer with over **8 years of experience** in building scalabl
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
 ![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-000000?style=for-the-badge&logo=cosmos&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Flashloan](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Token](https://img.shields.io/badge/Token-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Blockchain Bridge](https://img.shields.io/badge/Blockchain_Bridge-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Gateway Smart Contract](https://img.shields.io/badge/Gateway_Smart_Contract-000000?style=for-the-badge&logo=ethereum&logoColor=white)
