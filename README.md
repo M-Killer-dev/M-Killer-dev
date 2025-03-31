@@ -3,9 +3,10 @@
 ### Senior Full-Stack & Blockchain Developer | 8+ Years of Experience
 
 I'm a seasoned developer with over **8 years of experience** in building scalable web applications and decentralized solutions. I specialize in **full-stack development** and **blockchain technologies**, delivering high-quality, production-ready applications using cutting-edge tools and frameworks.
-
+<!--
 🔗 **Portfolio**: [https://personal-f69a6.web.app/]  
 📧 **Email**: [mykhailokoroldev@outlook.com]  
+-->
 
 ---
 
